@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Interview assignment
+
+Requirements
+1. Host the project on a public git repository
+2. Make the webpage and its components using ReasonReact
+3. Show a header that contains “Name: YourName”
+4. Show 9 random colored squares.
+
 <!--
 **jhdivinterview/jhdivinterview** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
